@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Resilience on Hussein Kadhim</title>
-    <link>http://localhost:1313/tags/resilience/</link>
+    <link>https://example.org/tags/resilience/</link>
     <description>Recent content in Resilience on Hussein Kadhim</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Hussein Kadhim</copyright>
-    <lastBuildDate>Sun, 28 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/resilience/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 28 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/tags/resilience/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My Experience with Journaling for 500&#43; Days and How It Changed My Life</title>
-      <link>http://localhost:1313/posts/journaling/</link>
+      <link>https://example.org/posts/journaling/</link>
       <pubDate>Sun, 28 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/journaling/</guid>
+      <guid>https://example.org/posts/journaling/</guid>
       <description>Introduction #I love journaling.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/journaling/featured.jpeg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/posts/journaling/featured.jpeg" />
     </item>
     
     <item>
       <title>Choosing Your Productivity Style</title>
-      <link>http://localhost:1313/posts/productivity-style/</link>
+      <link>https://example.org/posts/productivity-style/</link>
       <pubDate>Wed, 24 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/productivity-style/</guid>
+      <guid>https://example.org/posts/productivity-style/</guid>
       <description>Introduction #Hey there, let&amp;rsquo;s talk about this.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/productivity-style/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/posts/productivity-style/featured.jpg" />
     </item>
     
   </channel>

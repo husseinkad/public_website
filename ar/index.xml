@@ -2,68 +2,78 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>حسين كاظم</title>
-    <link>http://localhost:1313/ar/</link>
+    <link>https://example.org/ar/</link>
     <description>Recent content on حسين كاظم</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ar</language>
     <copyright>© 2024 حسين كاظم</copyright>
-    <lastBuildDate>Thu, 09 May 2024 20:55:37 +0100</lastBuildDate><atom:link href="http://localhost:1313/ar/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 09 May 2024 20:55:37 +0100</lastBuildDate><atom:link href="https://example.org/ar/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>مشاريعي</title>
-      <link>http://localhost:1313/ar/portfolio/</link>
+      <link>https://example.org/ar/portfolio/</link>
       <pubDate>Thu, 09 May 2024 20:55:37 +0100</pubDate>
       
-      <guid>http://localhost:1313/ar/portfolio/</guid>
+      <guid>https://example.org/ar/portfolio/</guid>
       <description>مرحبًا بك في ملف اعمالي!</description>
       
     </item>
     
     <item>
       <title>تجربتي مع الكتابة اليومية لأكثر من 500 يوم وكيف غيرت حياتي</title>
-      <link>http://localhost:1313/ar/posts/journaling/</link>
+      <link>https://example.org/ar/posts/journaling/</link>
       <pubDate>Sun, 28 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/ar/posts/journaling/</guid>
+      <guid>https://example.org/ar/posts/journaling/</guid>
       <description>المقدمة #أنا أحب الكتابة اليومية.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/journaling/featured.jpeg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/posts/journaling/featured.jpeg" />
     </item>
     
     <item>
       <title>اختيار نمط الإنتاجية الذي يناسبك</title>
-      <link>http://localhost:1313/ar/posts/productivity-style/</link>
+      <link>https://example.org/ar/posts/productivity-style/</link>
       <pubDate>Wed, 24 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/ar/posts/productivity-style/</guid>
+      <guid>https://example.org/ar/posts/productivity-style/</guid>
       <description>المقدمة #مرحبًا، دعونا نتحدث عن هذا الموضوع.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/productivity-style/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/posts/productivity-style/featured.jpg" />
     </item>
     
     <item>
       <title>السيرة الذاتية</title>
-      <link>http://localhost:1313/ar/resume/</link>
+      <link>https://example.org/ar/resume/</link>
       <pubDate>Sat, 10 Feb 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/ar/resume/</guid>
+      <guid>https://example.org/ar/resume/</guid>
       <description>Experience Flutter intern Jan 2024 - Mar 2024Digital logicInterned at Digital logic, specializing in Flutter app development with GetX and Riverpod frameworks.</description>
       
     </item>
     
     <item>
       <title>الأهداف السنوية وإنجازات 2023</title>
-      <link>http://localhost:1313/ar/posts/goals/</link>
+      <link>https://example.org/ar/posts/goals-copy/</link>
       <pubDate>Thu, 01 Feb 2024 12:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/ar/posts/goals/</guid>
+      <guid>https://example.org/ar/posts/goals-copy/</guid>
       <description>هل يستحق تحديد الأهداف السنوية؟ #في رأيي، الإجابة هي نعم؛ فهو يستحق العناء، لأنه من الممكن فعلاً تحقيقها، ها هو ما فعلته لتحقيق أهدافي</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/goals/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/posts/goals-copy/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>الأهداف السنوية وإنجازات 2023</title>
+      <link>https://example.org/ar/posts/goals/</link>
+      <pubDate>Thu, 01 Feb 2024 12:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/ar/posts/goals/</guid>
+      <description>هل يستحق تحديد الأهداف السنوية؟ #في رأيي، الإجابة هي نعم؛ فهو يستحق العناء، لأنه من الممكن فعلاً تحقيقها، ها هو ما فعلته لتحقيق أهدافي</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/posts/goals/featured.jpg" />
     </item>
     
     <item>
       <title>نبذة عني</title>
-      <link>http://localhost:1313/ar/about/</link>
+      <link>https://example.org/ar/about/</link>
       <pubDate>Thu, 01 Feb 2024 12:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/ar/about/</guid>
+      <guid>https://example.org/ar/about/</guid>
       <description>نبذة عني مرحباً، أنا حسين، مطوّر برمجيات، لدي خلفية قوية في تطوير تطبيقات الهواتف المحمولة.</description>
       
     </item>

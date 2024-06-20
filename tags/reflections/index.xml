@@ -2,20 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Reflections on Hussein Kadhim</title>
-    <link>http://localhost:1313/tags/reflections/</link>
+    <link>https://example.org/tags/reflections/</link>
     <description>Recent content in Reflections on Hussein Kadhim</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Hussein Kadhim</copyright>
-    <lastBuildDate>Thu, 01 Feb 2024 12:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/reflections/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 Feb 2024 12:00:00 +0000</lastBuildDate><atom:link href="https://example.org/tags/reflections/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Reflection on Yearly Goals and 2023 Accomplishments</title>
-      <link>http://localhost:1313/posts/goals/</link>
+      <link>https://example.org/posts/goals-copy/</link>
       <pubDate>Thu, 01 Feb 2024 12:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/goals/</guid>
+      <guid>https://example.org/posts/goals-copy/</guid>
       <description>Is It Worth it to Set Yearly Goals?</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/goals/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/posts/goals-copy/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Reflection on Yearly Goals and 2023 Accomplishments</title>
+      <link>https://example.org/posts/goals/</link>
+      <pubDate>Thu, 01 Feb 2024 12:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/posts/goals/</guid>
+      <description>Is It Worth it to Set Yearly Goals?</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/posts/goals/featured.jpg" />
     </item>
     
   </channel>

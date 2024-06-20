@@ -3,131 +3,147 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://example.org/</loc>
     <lastmod>2024-05-09T20:55:37+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="ar"
-      href="http://localhost:1313/ar/"
+      href="https://example.org/ar/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/"
+      href="https://example.org/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/portfolio/</loc>
+    <loc>https://example.org/portfolio/</loc>
     <lastmod>2024-05-09T20:55:37+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="ar"
-      href="http://localhost:1313/ar/portfolio/"
+      href="https://example.org/ar/portfolio/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/portfolio/"
+      href="https://example.org/portfolio/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/posts/journaling/</loc>
+    <loc>https://example.org/posts/journaling/</loc>
     <lastmod>2024-04-28T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="ar"
-      href="http://localhost:1313/ar/posts/journaling/"
+      href="https://example.org/ar/posts/journaling/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/posts/journaling/"
+      href="https://example.org/posts/journaling/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://example.org/posts/</loc>
     <lastmod>2024-04-28T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="ar"
-      href="http://localhost:1313/ar/posts/"
+      href="https://example.org/ar/posts/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/posts/"
+      href="https://example.org/posts/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/posts/productivity-style/</loc>
+    <loc>https://example.org/posts/productivity-style/</loc>
     <lastmod>2024-04-24T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="ar"
-      href="http://localhost:1313/ar/posts/productivity-style/"
+      href="https://example.org/ar/posts/productivity-style/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/posts/productivity-style/"
+      href="https://example.org/posts/productivity-style/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/resume/</loc>
+    <loc>https://example.org/resume/</loc>
     <lastmod>2024-02-10T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="ar"
-      href="http://localhost:1313/ar/resume/"
+      href="https://example.org/ar/resume/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/resume/"
+      href="https://example.org/resume/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://example.org/about/</loc>
     <lastmod>2024-02-01T12:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="ar"
-      href="http://localhost:1313/ar/about/"
+      href="https://example.org/ar/about/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/about/"
+      href="https://example.org/about/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/posts/goals/</loc>
+    <loc>https://example.org/posts/goals-copy/</loc>
     <lastmod>2024-02-01T12:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="ar"
-      href="http://localhost:1313/ar/posts/goals/"
+      href="https://example.org/ar/posts/goals-copy/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/posts/goals/"
+      href="https://example.org/posts/goals-copy/"
+    />
+  </url>
+  <url>
+    <loc>https://example.org/posts/goals/</loc>
+    <lastmod>2024-02-01T12:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="ar"
+      href="https://example.org/ar/posts/goals/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://example.org/posts/goals/"
     />
   </url>
 </urlset>

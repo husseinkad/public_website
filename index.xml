@@ -2,70 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hussein Kadhim</title>
-    <link>http://localhost:1313/</link>
+    <link>https://example.org/</link>
     <description>Recent content on Hussein Kadhim</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Hussein Kadhim</copyright>
-    <lastBuildDate>Thu, 09 May 2024 20:55:37 +0100</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 09 May 2024 20:55:37 +0100</lastBuildDate><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>portfolio</title>
-      <link>http://localhost:1313/portfolio/</link>
+      <link>https://example.org/portfolio/</link>
       <pubDate>Thu, 09 May 2024 20:55:37 +0100</pubDate>
       
-      <guid>http://localhost:1313/portfolio/</guid>
+      <guid>https://example.org/portfolio/</guid>
       <description>Welcome to my portfolio!</description>
       
     </item>
     
     <item>
       <title>My Experience with Journaling for 500&#43; Days and How It Changed My Life</title>
-      <link>http://localhost:1313/posts/journaling/</link>
+      <link>https://example.org/posts/journaling/</link>
       <pubDate>Sun, 28 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/journaling/</guid>
+      <guid>https://example.org/posts/journaling/</guid>
       <description>Introduction #I love journaling.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/journaling/featured.jpeg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/posts/journaling/featured.jpeg" />
     </item>
     
     <item>
       <title>Choosing Your Productivity Style</title>
-      <link>http://localhost:1313/posts/productivity-style/</link>
+      <link>https://example.org/posts/productivity-style/</link>
       <pubDate>Wed, 24 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/productivity-style/</guid>
+      <guid>https://example.org/posts/productivity-style/</guid>
       <description>Introduction #Hey there, let&amp;rsquo;s talk about this.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/productivity-style/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/posts/productivity-style/featured.jpg" />
     </item>
     
     <item>
       <title>Resume</title>
-      <link>http://localhost:1313/resume/</link>
+      <link>https://example.org/resume/</link>
       <pubDate>Sat, 10 Feb 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/resume/</guid>
+      <guid>https://example.org/resume/</guid>
       <description>Experience Flutter intern Jan 2024 - Mar 2024Digital logicInterned at Digital logic, specializing in Flutter app development with GetX and Riverpod frameworks.</description>
       
     </item>
     
     <item>
       <title>About</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://example.org/about/</link>
       <pubDate>Thu, 01 Feb 2024 12:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://example.org/about/</guid>
       <description>About Me Hello, I&amp;rsquo;m Husssein, a passionate software developer with a strong background in mobile app development.</description>
       
     </item>
     
     <item>
       <title>Reflection on Yearly Goals and 2023 Accomplishments</title>
-      <link>http://localhost:1313/posts/goals/</link>
+      <link>https://example.org/posts/goals-copy/</link>
       <pubDate>Thu, 01 Feb 2024 12:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/goals/</guid>
+      <guid>https://example.org/posts/goals-copy/</guid>
       <description>Is It Worth it to Set Yearly Goals?</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/goals/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/posts/goals-copy/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Reflection on Yearly Goals and 2023 Accomplishments</title>
+      <link>https://example.org/posts/goals/</link>
+      <pubDate>Thu, 01 Feb 2024 12:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/posts/goals/</guid>
+      <description>Is It Worth it to Set Yearly Goals?</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/posts/goals/featured.jpg" />
     </item>
     
   </channel>
