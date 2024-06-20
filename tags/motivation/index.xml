@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Motivation on Hussein Kadhim</title>
+    <link>http://localhost:1313/tags/motivation/</link>
+    <description>Recent content in Motivation on Hussein Kadhim</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Hussein Kadhim</copyright>
+    <lastBuildDate>Wed, 24 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/motivation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Choosing Your Productivity Style</title>
+      <link>http://localhost:1313/posts/productivity-style/</link>
+      <pubDate>Wed, 24 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/productivity-style/</guid>
+      <description>Introduction #Hey there, let&amp;rsquo;s talk about this.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/productivity-style/featured.jpg" />
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>تحديد الأهداف on حسين كاظم</title>
+    <link>http://localhost:1313/ar/tags/%D8%AA%D8%AD%D8%AF%D9%8A%D8%AF-%D8%A7%D9%84%D8%A3%D9%87%D8%AF%D8%A7%D9%81/</link>
+    <description>Recent content in تحديد الأهداف on حسين كاظم</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ar</language>
+    <copyright>© 2024 حسين كاظم</copyright>
+    <lastBuildDate>Thu, 01 Feb 2024 12:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/ar/tags/%D8%AA%D8%AD%D8%AF%D9%8A%D8%AF-%D8%A7%D9%84%D8%A3%D9%87%D8%AF%D8%A7%D9%81/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>الأهداف السنوية وإنجازات 2023</title>
+      <link>http://localhost:1313/ar/posts/goals/</link>
+      <pubDate>Thu, 01 Feb 2024 12:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/ar/posts/goals/</guid>
+      <description>هل يستحق تحديد الأهداف السنوية؟ #في رأيي، الإجابة هي نعم؛ فهو يستحق العناء، لأنه من الممكن فعلاً تحقيقها، ها هو ما فعلته لتحقيق أهدافي</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/goals/featured.jpg" />
+    </item>
+    
+  </channel>
+</rss>
